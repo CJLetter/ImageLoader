@@ -1,0 +1,3 @@
+import webbrowser
+
+webbrowser.open("https://cdn.discordapp.com/attachments/551931256934367244/1176751825773412472/ChillNathan.png?ex=6582778a&is=6570028a&hm=8b69f1a92ac08714e89e911b9297e0f1338f557d22d61ee3fbad4a4f953a0bf9&")
